@@ -10,5 +10,4 @@ void main() {
 	// char *p[5] = char *p1,*p2,*p3,*p4,*p5;
 	// *p[0] = data1, *p[1] = data2, *p[2] = data3, *p[3] = data4, *p[4] = data5;
 	// p[0] = &data1, p[1] = &data2, p[2] = &data3, p[3] = &data4, p[4] = &data5;
-
 }
